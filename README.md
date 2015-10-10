@@ -1,1 +1,2 @@
 # SPOJPractice
+Practice for SPOJ
